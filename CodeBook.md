@@ -10,87 +10,87 @@ I have created one R script called run_analysis.R that does the following.
 
 ## Variables in the second and independent tidy data:
 
-Subj
-TimeBodyAccMeanX
-TimeBodyAccMeanY
-TimeBodyAccMeanZ
-TimeBodyAccStdX
-TimeBodyAccStdY
-TimeBodyAccStdZ
-TimeGravityAccMeanX
-TimeGravityAccMeanY
-TimeGravityAccMeanZ
-TimeGravityAccStdX
-TimeGravityAccStdY
-TimeGravityAccStdZ
-TimeBodyAccJerkMeanX
-TimeBodyAccJerkMeanY
-TimeBodyAccJerkMeanZ
-TimeBodyAccJerkStdX
-TimeBodyAccJerkStdY
-TimeBodyAccJerkStdZ
-TimeBodyGyroMeanX
-TimeBodyGyroMeanY
-TimeBodyGyroMeanZ
-TimeBodyGyroStdX
-TimeBodyGyroStdY
-TimeBodyGyroStdZ
-TimeBodyGyroJerkMeanX
-TimeBodyGyroJerkMeanY
-TimeBodyGyroJerkMeanZ
-TimeBodyGyroJerkStdX
-TimeBodyGyroJerkStdY
-TimeBodyGyroJerkStdZ
-TimeBodyAccMagMean
-TimeBodyAccMagStd
-TimeGravityAccMagMean
-TimeGravityAccMagStd
-TimeBodyAccJerkMagMean
-TimeBodyAccJerkMagStd
-TimeBodyGyroMagMean
-TimeBodyGyroMagStd
-TimeBodyGyroJerkMagMean
-TimeBodyGyroJerkMagStd
-FreqBodyAccMeanX
-FreqBodyAccMeanY
-FreqBodyAccMeanZ
-FreqBodyAccStdX
-FreqBodyAccStdY
-FreqBodyAccStdZ
-FreqBodyAccMeanFreqX
-FreqBodyAccMeanFreqY
-FreqBodyAccMeanFreqZ
-FreqBodyAccJerkMeanX
-FreqBodyAccJerkMeanY
-FreqBodyAccJerkMeanZ
-FreqBodyAccJerkStdX
-FreqBodyAccJerkStdY
-FreqBodyAccJerkStdZ
-FreqBodyAccJerkMeanFreqX
-FreqBodyAccJerkMeanFreqY
-FreqBodyAccJerkMeanFreqZ
-FreqBodyGyroMeanX
-FreqBodyGyroMeanY
-FreqBodyGyroMeanZ
-FreqBodyGyroStdX
-FreqBodyGyroStdY
-FreqBodyGyroStdZ
-FreqBodyGyroMeanFreqX
-FreqBodyGyroMeanFreqY
-FreqBodyGyroMeanFreqZ
-FreqBodyAccMagMean
-FreqBodyAccMagStd
-FreqBodyAccMagMeanFreq
-FreqBodyAccJerkMagMean
-FreqBodyAccJerkMagStd
-FreqBodyAccJerkMagMeanFreq
-FreqBodyGyroMagMean
-FreqBodyGyroMagStd
-FreqBodyGyroMagMeanFreq
-FreqBodyGyroJerkMagMean
-FreqBodyGyroJerkMagStd
-FreqBodyGyroJerkMagMeanFreq
-Activ
+- Subj
+- TimeBodyAccMeanX
+- TimeBodyAccMeanY
+- TimeBodyAccMeanZ
+- TimeBodyAccStdX
+- TimeBodyAccStdY
+- TimeBodyAccStdZ
+- TimeGravityAccMeanX
+- TimeGravityAccMeanY
+- TimeGravityAccMeanZ
+- TimeGravityAccStdX
+- TimeGravityAccStdY
+- TimeGravityAccStdZ
+- TimeBodyAccJerkMeanX
+- TimeBodyAccJerkMeanY
+- TimeBodyAccJerkMeanZ
+- TimeBodyAccJerkStdX
+- TimeBodyAccJerkStdY
+- TimeBodyAccJerkStdZ
+- TimeBodyGyroMeanX
+- TimeBodyGyroMeanY
+- TimeBodyGyroMeanZ
+- TimeBodyGyroStdX
+- TimeBodyGyroStdY
+- TimeBodyGyroStdZ
+- TimeBodyGyroJerkMeanX
+- TimeBodyGyroJerkMeanY
+- TimeBodyGyroJerkMeanZ
+- TimeBodyGyroJerkStdX
+- TimeBodyGyroJerkStdY
+- TimeBodyGyroJerkStdZ
+- TimeBodyAccMagMean
+- TimeBodyAccMagStd
+- TimeGravityAccMagMean
+- TimeGravityAccMagStd
+- TimeBodyAccJerkMagMean
+- TimeBodyAccJerkMagStd
+- TimeBodyGyroMagMean
+- TimeBodyGyroMagStd
+- TimeBodyGyroJerkMagMean
+- TimeBodyGyroJerkMagStd
+- FreqBodyAccMeanX
+- FreqBodyAccMeanY
+- FreqBodyAccMeanZ
+- FreqBodyAccStdX
+- FreqBodyAccStdY
+- FreqBodyAccStdZ
+- FreqBodyAccMeanFreqX
+- FreqBodyAccMeanFreqY
+- FreqBodyAccMeanFreqZ
+- FreqBodyAccJerkMeanX
+- FreqBodyAccJerkMeanY
+- FreqBodyAccJerkMeanZ
+- FreqBodyAccJerkStdX
+- FreqBodyAccJerkStdY
+- FreqBodyAccJerkStdZ
+- FreqBodyAccJerkMeanFreqX
+- FreqBodyAccJerkMeanFreqY
+- FreqBodyAccJerkMeanFreqZ
+- FreqBodyGyroMeanX
+- FreqBodyGyroMeanY
+- FreqBodyGyroMeanZ
+- FreqBodyGyroStdX
+- FreqBodyGyroStdY
+- FreqBodyGyroStdZ
+- FreqBodyGyroMeanFreqX
+- FreqBodyGyroMeanFreqY
+- FreqBodyGyroMeanFreqZ
+- FreqBodyAccMagMean
+- FreqBodyAccMagStd
+- FreqBodyAccMagMeanFreq
+- FreqBodyAccJerkMagMean
+- FreqBodyAccJerkMagStd
+- FreqBodyAccJerkMagMeanFreq
+- FreqBodyGyroMagMean
+- FreqBodyGyroMagStd
+- FreqBodyGyroMagMeanFreq
+- FreqBodyGyroJerkMagMean
+- FreqBodyGyroJerkMagStd
+- FreqBodyGyroJerkMagMeanFreq
+- Activ
 
 ## Subj -> Subject
 
