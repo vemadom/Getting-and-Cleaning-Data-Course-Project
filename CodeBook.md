@@ -98,12 +98,12 @@ This is the number of Subject ID in 1 to 30.
 
 ## Activ -> Activity
 
-This is the number of Activity ID in:
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+This is the number of Activity ID in (ID, Label):
+- 1, WALKING
+- 2, WALKING_UPSTAIRS
+- 3, WALKING_DOWNSTAIRS
+- 4, SITTING
+- 5, STANDING
+- 6, LAYING
 
 
