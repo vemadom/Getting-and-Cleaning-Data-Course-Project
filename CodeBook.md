@@ -94,11 +94,11 @@ I have created one R script called run_analysis.R that does the following.
 
 ## Subj -> Subject
 
-This is the number of Subject ID in 1 to 30.
+The number of Subject ID in 1 to 30.
 
 ## Activ -> Activity
 
-This is the number of Activity ID in (ID, Label):
+The number of Activity ID in (ID, Label):
 - 1, WALKING
 - 2, WALKING_UPSTAIRS
 - 3, WALKING_DOWNSTAIRS
